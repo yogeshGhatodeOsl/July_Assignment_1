@@ -1,2 +1,6 @@
+
 second commit ( 2 ) 
 third commit (3 )
+=======
+second commit ( 2 )
+>>>>>>> a9f27e5... index.txt modified 2nd time 2nd commi
